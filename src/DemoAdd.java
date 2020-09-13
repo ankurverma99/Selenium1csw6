@@ -9,6 +9,7 @@ public class DemoAdd {
 			}
 		};
 		System.out.println(a.add(9, 6));
+		System.out.println("Hi.......");
 
 	}
 
